@@ -19,4 +19,7 @@
     <string name="question_government_senators">There are one hundred (100) U.S. Senators.</string>
     <string name="textview">TextView</string>
     <string name="android_robot">Android Robot</string>
+    <string name="first_button_text">First</string>
+    <string name="last_button_text">Last</string>
+    <string name="submit_button">Submit</string>
 </resources>
